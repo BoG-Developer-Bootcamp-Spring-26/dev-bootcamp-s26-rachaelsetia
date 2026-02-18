@@ -1,0 +1,6 @@
+/* .module makes it so that this class is specifically scoped to the folder */
+
+.container {
+    border: 1px solid black;
+    font-size: 20px;
+}
